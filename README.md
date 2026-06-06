@@ -1,7 +1,49 @@
 # PRODIGY_CYBERSECURITY
-# Tasks
-- caesar_cipher
-- pixel_manipulation
-- password_checker
-- simple_keylogger
-- network_packet_analyzer
+
+This repository contains all the tasks completed during the internship program.
+The projects were developed using Python and focus on fundamental Cybersecurity concepts such as encryption, password security, keyboard monitoring, image manipulation and network traffic analysis.
+
+# Tasks completed
+- Caesar Cipher
+- Pixel Manipulation for Image Encryption
+- Password Complexity Checker
+- Simple Keylogger
+- Network Packet Analyzer
+
+# Technologies Used
+- Python
+- Scapy
+- Pillow
+- Pynput
+- Regex
+- VS Code
+- GitHub
+
+# Concepts Used
+- Cryptography
+- Image Processing
+- Password Security
+- Keyboard Event Monitoring
+- Packet Sniffing
+- Traffic Analysis
+- Network Monitoring
+- Exception Handling
+
+# Learning Outcomes
+I have gained practical knowledge in:
+- Cybersecurity Fundamentals
+- Python Programming
+- Network Traffic Analysis
+- Encryption Techniques
+- Ethical Security Practices
+- Real Time Monitoring
+
+# Ethical Note
+These projects were developed strictly for educational and ethical CyberSecurity learning purposes only.
+Unauthorized use or misuse of these tools is not encouraged.
+
+# Author
+INFANT PRAVEENKUMAR V
+
+# Internship
+Cyber Security Internship at Prodigy InfoTech
