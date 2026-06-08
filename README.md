@@ -50,4 +50,4 @@ Cyber Security Internship at Prodigy InfoTech
 
 GitHub: https://github.com/25infant08/PRODIGY_CYBERSECURITY
 
-LinkedIn: www.linkedin.com/in/infant-praveenkumar-v-138b58413
+LinkedIn: https://www.linkedin.com/in/infant-praveenkumar-v-b1045a3b6?utm_source=share_via&utm_content=profile&utm_medium=member_android
