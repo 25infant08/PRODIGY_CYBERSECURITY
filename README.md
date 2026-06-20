@@ -27,9 +27,7 @@ A Python-based encryption and decryption tool that implements the Caesar Cipher 
 
 ## How to Run
 
-```bash
 python main.py
-```
 
 ## Learning Outcomes
 
@@ -59,10 +57,8 @@ An image encryption project that uses pixel manipulation techniques to encrypt a
 
 ## How to Run
 
-```bash
 pip install pillow
 python main.py
-```
 
 ## Learning Outcomes
 
@@ -91,9 +87,7 @@ A password security tool that evaluates password strength based on industry-stan
 
 ## How to Run
 
-```bash
 python main.py
-```
 
 ## Learning Outcomes
 
