@@ -27,7 +27,9 @@ A Python-based encryption and decryption tool that implements the Caesar Cipher 
 
 ## How to Run
 
+  ```bash
   python main.py
+  ```
 
 ## Learning Outcomes
 
@@ -57,8 +59,10 @@ An image encryption project that uses pixel manipulation techniques to encrypt a
 
 ## How to Run
 
+  ```bash
   pip install pillow
   python main.py
+  ```
 
 ## Learning Outcomes
 
@@ -87,7 +91,9 @@ A password security tool that evaluates password strength based on industry-stan
 
 ## How to Run
 
+  ```bash
   python main.py
+  ```
 
 ## Learning Outcomes
 
@@ -116,8 +122,9 @@ An educational cybersecurity project created to understand keyboard event monito
 
 ## How to Run
 
+  ```bash
   python main.py
-
+  ```
 ## Learning Outcomes
 
 * Event handling concepts
@@ -150,8 +157,10 @@ A network traffic analysis tool designed to capture and inspect packets for cybe
 
 ## How to Run
 
+  ```bash
   pip install scapy
   python main.py
+  ```
 
 ## Learning Outcomes
 
