@@ -1,12 +1,17 @@
 PRODIGY INFOTECH CYBER SECURITY INTERNSHIP PROJECTS
 
-Introduction
+"Python" (https://img.shields.io/badge/Python-3.x-blue)
+"Cyber Security" (https://img.shields.io/badge/Domain-Cybersecurity-green)
+"Status" (https://img.shields.io/badge/Status-Completed-brightgreen)
+"Internship" (https://img.shields.io/badge/Internship-Prodigy%20InfoTech-orange)
 
-This repository contains the cybersecurity projects completed as part of the Prodigy InfoTech Cyber Security Internship Program. These projects were developed using Python to gain hands-on experience in cryptography, image encryption, password security, system monitoring, and network traffic analysis. Each task focuses on practical cybersecurity concepts and demonstrates the application of programming skills in solving security-related challenges.
+📖 Introduction
+
+This repository contains the cybersecurity projects completed as part of the Prodigy InfoTech Cyber Security Internship Program. These projects were developed using Python to gain hands-on experience in cryptography, image encryption, password security, system monitoring, and network traffic analysis. Each project demonstrates practical cybersecurity concepts and enhances problem-solving skills through real-world implementations.
 
 ---
 
-Task 1: Caesar Cipher Encryption Tool
+🔐 Task 1: Caesar Cipher Encryption Tool
 
 Overview
 
@@ -35,7 +40,7 @@ Learning Outcomes
 
 ---
 
-Task 2: Pixel Manipulation for Image Encryption
+🖼️ Task 2: Pixel Manipulation for Image Encryption
 
 Overview
 
@@ -66,7 +71,7 @@ Learning Outcomes
 
 ---
 
-Task 3: Password Complexity Checker
+🔑 Task 3: Password Complexity Checker
 
 Overview
 
@@ -95,7 +100,7 @@ Learning Outcomes
 
 ---
 
-Task 4: Simple Keylogger (Educational Project)
+⌨️ Task 4: Simple Keylogger (Educational Project)
 
 Overview
 
@@ -124,7 +129,7 @@ Learning Outcomes
 
 ---
 
-Task 5: Network Packet Analyzer
+🌐 Task 5: Network Packet Analyzer
 
 Overview
 
@@ -155,14 +160,14 @@ Learning Outcomes
 
 ---
 
-Disclaimer
+⚠️ Disclaimer
 
 These projects were developed solely for educational and learning purposes as part of the Prodigy InfoTech Cyber Security Internship Program. They are intended to demonstrate cybersecurity concepts, programming skills, and security awareness. Any tools or techniques included in this repository should only be used in authorized, ethical, and legal environments.
 
 ---
 
-Conclusion
+🎯 Conclusion
 
 The successful completion of these projects provided practical exposure to cybersecurity fundamentals, cryptography, password security, image encryption, system monitoring, and network traffic analysis. This internship experience strengthened technical skills, problem-solving abilities, and understanding of real-world cybersecurity concepts while promoting ethical and responsible use of security tools.
 
-Developed during the Prodigy InfoTech Cyber Security Internship Program.
+🚀 Developed during the Prodigy InfoTech Cyber Security Internship Program.
