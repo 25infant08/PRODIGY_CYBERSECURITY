@@ -1,21 +1,14 @@
 <h1 align="center"><b>PRODIGY INFOTECH - CYBER SECURITY INTERNSHIP PROJECTS</b></h1>
 
-<p align="center">
-<img src="https://img.shields.io/badge/Python-3.x-blue" />
-<img src="https://img.shields.io/badge/Domain-Cybersecurity-green" />
-<img src="https://img.shields.io/badge/Status-Completed-brightgreen" />
-<img src="https://img.shields.io/badge/Internship-Prodigy%20InfoTech-orange" />
-</p>
+---
+
+## Introduction
+
+This repository contains the cybersecurity projects completed as part of the Prodigy InfoTech Cyber Security Internship Program. These projects were developed using Python to gain practical experience in cryptography, image encryption, password security, system monitoring, and network traffic analysis. Each task focuses on applying cybersecurity concepts through hands-on implementation and real-world problem-solving. All these projects were only for educational purpose only.
 
 ---
 
-## 📖 Introduction
-
-This repository contains the cybersecurity projects completed as part of the Prodigy InfoTech Cyber Security Internship Program. These projects were developed using Python to gain practical experience in cryptography, image encryption, password security, system monitoring, and network traffic analysis. Each task focuses on applying cybersecurity concepts through hands-on implementation and real-world problem-solving.
-
----
-
-# 🔐 Task 1: Caesar Cipher Encryption Tool
+# Task 1: Caesar Cipher Encryption Tool
 
 ## Overview
 
@@ -46,7 +39,7 @@ python main.py
 
 ---
 
-# 🖼️ Task 2: Pixel Manipulation for Image Encryption
+# Task 2: Pixel Manipulation for Image Encryption
 
 ## Overview
 
@@ -79,7 +72,7 @@ python main.py
 
 ---
 
-# 🔑 Task 3: Password Complexity Checker
+# Task 3: Password Complexity Checker
 
 ## Overview
 
@@ -110,7 +103,7 @@ python main.py
 
 ---
 
-# ⌨️ Task 4: Simple Keylogger (Educational Project)
+# Task 4: Simple Keylogger (Educational Project)
 
 ## Overview
 
@@ -145,7 +138,7 @@ This project was developed strictly for educational and cybersecurity learning p
 
 ---
 
-# 🌐 Task 5: Network Packet Analyzer
+# Task 5: Network Packet Analyzer
 
 ## Overview
 
@@ -178,13 +171,13 @@ python main.py
 
 ---
 
-# ⚠️ General Disclaimer
+# Disclaimer
 
 All projects in this repository were developed solely for educational and learning purposes as part of the Prodigy InfoTech Cyber Security Internship Program. These projects are intended to demonstrate cybersecurity concepts, programming skills, and security awareness. Any tools or techniques presented should only be used in authorized, ethical, and legal environments.
 
 ---
 
-# 🎯 Conclusion
+# Conclusion
 
 The successful completion of these projects provided valuable hands-on experience in cryptography, image encryption, password security, system monitoring, and network traffic analysis. This internship enhanced practical cybersecurity knowledge, strengthened Python programming skills, and improved problem-solving abilities through real-world security-focused implementations.
 
