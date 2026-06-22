@@ -192,6 +192,6 @@ The successful completion of these projects provided valuable hands-on experienc
 
 Cyber Security Intern at Prodigy InfoTech
 
-Github: https://github.com/25infant08
+Github: https://github.com/25infant08/25infant08
 
 linkedin: https://www.linkedin.com/in/infant-praveenkumar-v-b1045a3b6?utm_source=share_via&utm_content=profile&utm_medium=member_android
