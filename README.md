@@ -180,4 +180,18 @@ All projects in this repository were developed solely for educational and learni
 
 The successful completion of these projects provided valuable hands-on experience in cryptography, image encryption, password security, system monitoring, and network traffic analysis. This internship enhanced practical cybersecurity knowledge, strengthened Python programming skills, and improved problem-solving abilities through real-world security focused implementations.
 
+---
+
 ### 🚀 Developed during the Prodigy InfoTech Cyber Security Internship Program.
+
+---
+
+## Author 
+
+**INFANT PRAVEENKUMAR V**
+
+Cyber Security Intern at Prodigy InfoTech
+
+Github: https://github.com/25infant08
+
+linkedin: https://www.linkedin.com/in/infant-praveenkumar-v-b1045a3b6?utm_source=share_via&utm_content=profile&utm_medium=member_android
